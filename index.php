@@ -33,7 +33,7 @@
 	        </div>
 	        <div class="collapse navbar-collapse">
 	          <ul class="nav navbar-nav">
-	           <li class="logo"> <a href="index.php"> <img src="http://uni-prizren.com/inc/images/main-logo.png" /></a></li>
+	           <li class="logo"><img src="http://uni-prizren.com/inc/images/main-logo.png" /></li>
 	            <li class="active"><a href="index.php">Ballina</a></li>
 	            <li><a href="#about">P&euml;r universitetin</a></li>
 	            <li class="dropdown">
