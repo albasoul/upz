@@ -15,7 +15,7 @@ header h3{
 	font-size:20px;
 }
 .navbar-default{
-	background-color: #D35400;
+	background-color: #2ECC71;
 	color:#fff;
 	
 	font: 100%/1.225  sans-serif;
@@ -34,10 +34,10 @@ header h3{
 	color:#fff;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
-	background-color: #E67E22;
+	background-color: #27AE60;
 }
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
-	background-color: #E67E22;
+	background-color: #27AE60;
 	color:#fefefe;
 }
 .navbar-nav .logo{
