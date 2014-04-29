@@ -1,3 +1,3 @@
 <?php
-echo header("Location: http://localhost/upz/sq/index.php.");
+echo header("Location: /upz/sq/index.php");
 ?>

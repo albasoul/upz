@@ -179,8 +179,8 @@
 				<div class="col-md-3">
 					<ul class="list-unstyled">
 					  <li><p class="lead">Gjuha faqes</p></li>
-					  <li><a href="http://localhost/upz/sq/index.php">Shqip</a></li>
-					  <li><a href="http://localhost/upz/en-us/index.php">Anglisht</a></li>
+					  <li><a href="/upz/sq/index.php">Shqip</a></li>
+					  <li><a href="/upz/en-us/index.php">Anglisht</a></li>
 					  <li><a href="">Turkish</a></li>
 					  <li><a href="">Bosanski</a></li>
 					  <li><a href="">German</a></li>
