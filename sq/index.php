@@ -183,7 +183,6 @@
 					  <li><a href="/upz/en-us/index.php">Anglisht</a></li>
 					  <li><a href="">Turkish</a></li>
 					  <li><a href="">Bosanski</a></li>
-					  <li><a href="">German</a></li>
 					</ul>
 				</div>
 				<div class="col-md-3">
