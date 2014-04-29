@@ -23,6 +23,7 @@
 	  	<header>
 	  	</header>	 
 	  	<div class="container">
+	  	<div class="hidden-lg text-center"><img src="http://uni-prizren.com/inc/images/main-logo.png"/></div>
     	  <div class="navbar navbar-default" role="navigation">
 	        <div class="navbar-header">
 	          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -34,8 +35,8 @@
 	        </div>
 	        <div class="collapse navbar-collapse">
 	          <ul class="nav navbar-nav">
-	           <li> <a class="navbar-brand" href="index.php"><img src="http://uni-prizren.com/inc/images/main-logo.png"   class="logo" alt="Universiteti i Prizrenit" /></a></li>
-	            <li class="active"><a href="index.php">Ballina</a></li>
+	          <li class="logo hidden-xs hidden-sm hidden-md"><img src="http://uni-prizren.com/inc/images/main-logo.png"/></li>
+	            <li class="active"><a href="index.php"><span class="glyphicon glyphicon-home"></span></a></li>
 	            <li><a href="#about">P&euml;r universitetin</a></li>
 	            <li class="dropdown">
 	              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Fakultetet <b class="caret"></b></a>
@@ -68,12 +69,133 @@
 	                <li><a href="#">Fakulteti juridik</a></li>
 	              </ul>
 	            </li>
-	            <li><a href="#">Njoftimet</a></li>
+	            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Njoftimet <b class="caret"></b></a>
+	            	<ul class="dropdown-menu">
+	                <li><a href="#">Student&euml;t e pranuar</a></li>
+	                <li><a href="#">Ngjarjet</a></li>
+	              </ul>
+	            </li>
 	            <li><a href="#">Projektet tempus</a></li>
 	            <li><a href="#">Konferenca</a></li>
 	          </ul>
+	          <ul class="nav navbar-nav navbar-right">
+	          	<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-chevron-down"></span></a>
+	          		<ul class="dropdown-menu">
+	          		<li><a href="#">Konkurset</a></li>
+	                <li><a href="#">Nd&euml;rlidhje</a></li>
+	                <li><a href="#">Udh&euml;zues GIZ-CDBE</a></li>
+	                <li><a href="#">Revista shkencore</a></li>
+	                <li><a href="#">Ligjet / Rregulloret</a></li>
+	                <li><a href="#">Kontakti</a></li>
+	              </ul>
+	             </li>
+	          </ul>
 	        </div><!--/.nav-collapse -->
 	     </div>
+	     <br/>
+	     <div class="col-md-12 panel panel-default">
+	     	<div class="row panel-body">
+		     	<div class="col-md-8">
+			     	<div id="upz-carousel" class="carousel slide" data-ride="carousel">
+					  <!-- Wrapper for slides -->
+					  <div class="carousel-inner">
+					    <div class="item active">
+					      <img src="http://uni-prizren.com/repository/images/thumb_590x320/foto_nr_1_469494.jpg" alt="...">
+					    </div>
+					    <div class="item">
+					      <img src="http://uni-prizren.com/repository/images/thumb_590x320/Foto_nr_2_613670.jpg" alt="...">
+					    </div>
+					    <div class="item">
+					      <img src="http://uni-prizren.com/repository/images/thumb_590x320/Foto_nr_3_42400.jpg" alt="...">
+					    </div>
+					  </div>
+					  
+					</div>
+				</div>
+				<div class="col-md-4">
+					<p class="text-center"><img class="img-responsive img-thumbnail" src="http://rahovecpress.com/wp-content/uploads/2014/03/Shemsedini-300x189.jpg"/></p>
+					<p class="text-center lead"><strong>Prof.Dr.Zahadin Shemsedini</strong></p>
+					<p class="text-justify"> Të nderuar studentë, mirë se keni ardhur në Universitetin Publik të Prizrenit!</p>
+					<p class="small text-right"><a href="#">Lexo me shume</a></p>
+				</div>
+			</div>
+			<div class="col-md-12">
+				<div class="panel panel-default aktualitetet">
+					<div class="panel-heading">
+					    <h3 class="panel-title">Aktualitetet</h3>
+					  </div>
+					<div class="panel-body">
+						<div class="col-md-3 aktualiteti">
+							<p class="small text-danger">12 Prill 2014</p>
+							<p class="lead">Njoftim</p>
+							<p class="text-justify">Njoftim     Të nderuar studiues, Të bashkangjitur mund ta gjeni programin e konferencës, e cila do t'i zhvillon aktivitetet shkencore në ambientin e Universitetit të Prizrenit, Prizren.</p>
+							<a class="btn btn-sm btn-default">Lexo me shume</a>
+						</div>
+						<div class="col-md-3 aktualiteti">
+							<p class="small text-danger">12 Prill 2014</p>
+							<p class="lead">Njoftim</p>
+							<p class="text-justify">Njoftim     Të nderuar studiues, Të bashkangjitur mund ta gjeni programin e konferencës, e cila do t'i zhvillon aktivitetet shkencore në ambientin e Universitetit të Prizrenit, Prizren.</p>
+							<a class="btn btn-sm btn-default">Lexo me shume</a>
+						</div>
+						<div class="col-md-3 aktualiteti">
+							<p class="small text-danger">12 Prill 2014</p>
+							<p class="lead">Njoftim</p>
+							<p class="text-justify">Njoftim     Të nderuar studiues, Të bashkangjitur mund ta gjeni programin e konferencës, e cila do t'i zhvillon aktivitetet shkencore në ambientin e Universitetit të Prizrenit, Prizren.</p>
+							<a class="btn btn-sm btn-default">Lexo me shume</a>
+						</div>
+						<div class="col-md-3 aktualiteti">
+							<p class="small text-danger">12 Prill 2014</p>
+							<p class="lead">Njoftim</p>
+							<p class="text-justify">Njoftim     Të nderuar studiues, Të bashkangjitur mund ta gjeni programin e konferencës, e cila do t'i zhvillon aktivitetet shkencore në ambientin e Universitetit të Prizrenit, Prizren.</p>
+							<a class="btn btn-sm btn-default">Lexo me shume</a>
+						</div>
+					</div>
+				</div>
+			</div>
+	     </div>
+	   </div>
+	   	<div id="footer">
+	     	<div class="container">
+	     		<div class="adresa col-md-3">
+	     			<p class="lead">Adresa</p>
+	     			<address>
+					  <strong>Universiteti "Ukshin Hoti"</strong><br>
+					  Rruga e Shkronjave, nr.1<br>
+					  Prizren, 20000<br>
+					  Republika e Kosov&euml;s<br>
+					  <abbr title="Telefoni">Tel:</abbr> (029) 232-140<br>
+					  email: <a href="mailto:rektorati@uni-prizren.com">rektorati@uni-prizren.com</a>
+					</address>
+				</div>
+				<div class="col-md-3">
+					<ul class="list-unstyled">
+					  <li><p class="lead">Rrjetet sociale</p></li>
+					  <li><a href="https://www.facebook.com/Uni.UkshiHoti">Lidhu ne facebook</a></li>
+					  <li><a href="">Lidhu ne Twitter</a></li>
+					  <li><a href="">Youtube Channel</a></li>
+					  <li><a href="">GitHub Fork</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3">
+					<ul class="list-unstyled">
+					  <li><p class="lead">Gjuha faqes</p></li>
+					  <li><a href="http://localhost/upz/sq/index.php">Shqip</a></li>
+					  <li><a href="http://localhost/upz/en-us/index.php">Anglisht</a></li>
+					  <li><a href="">Turkish</a></li>
+					  <li><a href="">Bosanski</a></li>
+					  <li><a href="">German</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3">
+					<ul class="list-unstyled">
+					  <li><p class="lead">Mund&euml;suar nga</p></li>
+					  <li><a href="">Ardit Morina</a></li>
+					  <li><a href="">Besfort Bajrami</a></li>
+					  <li><a href="">Lirim Gashi</a></li>
+					  <li><a href="">Blendi Gashi</a></li>
+					</ul>
+				</div>
+	     	</div>
 	    </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
